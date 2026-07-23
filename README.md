@@ -5,10 +5,10 @@ I design and ship end-to-end systems: APIs, web dashboards, and React Native / E
 
 ## Stack
 
-**Languages:** TypeScript, Go, JavaScript  
-**Backend:** NestJS, Node.js, Prisma, PostgreSQL, Redis  
+**Languages:** TypeScript, Go, JavaScript,PHP,Java  
+**Backend:** NestJS, Node.js,Laravel,Prisma, PostgreSQL, Redis  
 **Frontend:** Next.js, React  
-**Mobile:** Expo, React Native  
+**Mobile:** Expo, React Native,Native Android  
 **Infra / ops:** Docker, CI/CD, Stripe, analytics (Mixpanel / GA)
 
 ## Selected products
