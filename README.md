@@ -1,33 +1,65 @@
-# Ömer Faruk Aksungur
+<h1 align="center">Hi, I'm Ömer Faruk Aksungur 👋</h1>
+<p align="center">Full-stack developer building SaaS products & mobile apps</p>
 
-Full-stack developer focused on SaaS products and mobile apps.
-I design and ship end-to-end systems: APIs, web dashboards, and React Native / Expo clients.
+<p align="center">
+I design and ship end-to-end systems — APIs, web dashboards, and React Native / Expo clients — from idea to production.
+</p>
 
-## Stack
+<br>
 
-**Languages:** TypeScript, Go, JavaScript,PHP,Java  
-**Backend:** NestJS, Node.js,Laravel,Prisma, PostgreSQL, Redis  
-**Frontend:** Next.js, React  
-**Mobile:** Expo, React Native,Native Android  
-**Infra / ops:** Docker, CI/CD, Stripe, analytics (Mixpanel / GA)
+## 🛠️ Stack
 
-## Selected products
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+</p>
 
-| Product | What it is | Stack highlights |
-|---------|------------|------------------|
-| **TablePing** | Restaurant reservation SaaS (self-hosted) — bookings, deposits, WhatsApp/SMS ops | NestJS, Next.js, Prisma, Stripe |
-| **TokenCurb** | LLM cost monitoring waitlist — per-feature spend, spike alerts | Next.js, TypeScript |
-| **Suracikta** | Location-based social / meetup app | Expo, TypeScript |
-| **Busted** | Viral AI roast social app | Expo |
+## 🚀 Selected products
 
-> Source for these products is private; happy to walk through architecture in an interview.
+Built as part of a two-person SaaS team, each shipped from idea to production with a recurring-revenue model in mind.
 
-## Public code samples
+| Product | What it is | Stack |
+|---|---|---|
+| **[TablePing](https://tableping.com.tr)** | Self-hosted restaurant reservation SaaS — bookings, deposits, WhatsApp/SMS ops | NestJS, Next.js, Prisma, Stripe |
+| **Suracıkta** | Location-based social / meetup app with proximity matching | Expo, TypeScript |
+| **TokenCurb** | LLM cost monitoring — per-feature spend, spike alerts (waitlist) | Next.js, TypeScript |
+| **Busted** | Viral AI "roast" social app | Expo |
 
-- [insider-messaging](https://github.com/Farukaksungur/insider-messaging) — Go message dispatcher (REST + scheduler + webhook + Redis)
-- [nextweb](https://github.com/Farukaksungur/nextweb) — Next.js / TypeScript web app
+> Source for these is private — happy to walk through architecture in an interview.
 
-## Contact
+## 📦 Public code samples
 
-- LinkedIn: [ömer-faruk-aksungur](https://www.linkedin.com/in/%C3%B6mer-faruk-aksungur-41014112b/)
-- Email: farukaksungur.ceng@gmail.com
+- **[insider-messaging](https://github.com/Farukaksungur/insider-messaging)** — Go message dispatcher (REST + scheduler + webhook + Redis)
+- **[nextweb](https://github.com/Farukaksungur/nextweb)** — Next.js / TypeScript web app
+
+## 📫 Contact
+
+<p>
+<a href="https://www.linkedin.com/in/%C3%B6mer-faruk-aksungur-41014112b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:farukaksungur.ceng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
