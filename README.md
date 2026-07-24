@@ -37,6 +37,13 @@ I design and ship end-to-end systems — APIs, web dashboards, and React Native 
 <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black" />
 </p>
 <p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Manus-000000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square&logoColor=white" />
+</p>
+<p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
@@ -46,7 +53,7 @@ I design and ship end-to-end systems — APIs, web dashboards, and React Native 
 
 ## 🚀 Selected products
 
-Built as part of a two-person SaaS team, each shipped from idea to production with a recurring-revenue model in mind.
+Built solo, each shipped from idea to production with a recurring-revenue model in mind.
 
 | Product | What it is | Stack |
 |---|---|---|
