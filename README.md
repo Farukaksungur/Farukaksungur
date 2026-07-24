@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Ömer Faruk Aksungur 👋</h1>
-<p align="center">Full-stack developer building SaaS products & mobile apps</p>
+<h1 align="center">Ömer Faruk Aksungur</h1>
+<p align="center">Senior Full-Stack Developer building SaaS products & mobile apps</p>
 
 <p align="center">
 I design and ship end-to-end systems — APIs, web dashboards, and React Native / Expo clients — from idea to production.
@@ -7,7 +7,7 @@ I design and ship end-to-end systems — APIs, web dashboards, and React Native 
 
 <br>
 
-## 🛠️ Stack
+## Stack
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -45,13 +45,17 @@ I design and ship end-to-end systems — APIs, web dashboards, and React Native 
 </p>
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Self--Hosted-6B7280?style=flat-square&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
 </p>
 
-## 🚀 Selected products
+## Selected products
 
 Built solo, each shipped from idea to production with a recurring-revenue model in mind.
 
@@ -64,12 +68,12 @@ Built solo, each shipped from idea to production with a recurring-revenue model 
 
 > Source for these is private — happy to walk through architecture in an interview.
 
-## 📦 Public code samples
+## Public code samples
 
 - **[insider-messaging](https://github.com/Farukaksungur/insider-messaging)** — Go message dispatcher (REST + scheduler + webhook + Redis)
 - **[nextweb](https://github.com/Farukaksungur/nextweb)** — Next.js / TypeScript web app
 
-## 📫 Contact
+## Contact
 
 <p>
 <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-aksungur-41014112b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
