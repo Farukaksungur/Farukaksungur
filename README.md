@@ -66,8 +66,8 @@ Built solo, each shipped from idea to production with a recurring-revenue model 
 | Product | What it is | Stack |
 |---|---|---|
 | **[TablePing](https://tableping.com.tr)** | Self-hosted restaurant reservation SaaS — bookings, deposits, WhatsApp/SMS ops | NestJS, Next.js, Prisma, Stripe |
-| **Suracıkta** | Location-based social / meetup app with proximity matching | Expo, TypeScript |
-| **TokenCurb** | LLM cost monitoring — per-feature spend, spike alerts (waitlist) | Next.js, TypeScript |
+| **[Suracıkta](https://play.google.com/store/apps/details?id=com.kordondays.app)** | Location-based social / meetup app with proximity matching | Expo, TypeScript |
+| **[TokenCurb](https://tokencurb.vercel.app/tr)** | LLM cost monitoring — per-feature spend, spike alerts (waitlist) | Next.js, TypeScript |
 | **Busted** | Viral AI "roast" social app | Expo |
 
 > Source for these is private — happy to walk through architecture in an interview.
