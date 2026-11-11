@@ -69,6 +69,11 @@ Built solo, each shipped from idea to production with a recurring-revenue model 
 | **[Suracıkta](https://play.google.com/store/apps/details?id=com.kordondays.app)** | Location-based social / meetup app with proximity matching | Expo, TypeScript |
 | **[TokenCurb](https://tokencurb.vercel.app/tr)** | LLM cost monitoring — per-feature spend, spike alerts (waitlist) | Next.js, TypeScript |
 | **Busted** | Viral AI "roast" social app | Expo |
+| **Kelime Düellosu** | Real-time Turkish 1v1 word duel game — matchmaking, leagues, friend duels, solo mode, Premium | Go (WebSocket), Expo, SQLite, RevenueCat |
+| **Sükûn** — [App Store](https://apps.apple.com/tr/app/s%C3%BCk%C3%BBn-prayer-dhikr-dua/id6828023272) · [Google Play](https://play.google.com/store/apps/details?id=com.codernsoft.sukun) | Calm prayer-times, athan reminders, qibla and dhikr companion — no points, rankings or streaks | Expo, TypeScript, Supabase, RevenueCat, OneSignal |
+| **StartNow: Tiny Steps** — [App Store](https://apps.apple.com/tr/app/startnow-tiny-steps/id6822208865) · [Google Play](https://play.google.com/store/apps/details?id=com.farukaksungur.startnow) | AI task breaker: turns a big task into a few small steps with time estimates | Mobile (iOS & Android), AI |
+| **[SpeakRefine](https://play.google.com/store/apps/details?id=com.speakrefine.app)** | AI English coach for B2–C1 professionals — phrasing refiner, accent and voice practice | Expo, Supabase, RevenueCat, OneSignal |
+| **[Milyoner 2026](https://play.google.com/store/apps/details?id=com.codernsoft.milyoner2021)** | Turkish "Who Wants to Be a Millionaire"-style quiz game | Expo, SQLite, AdMob, OneSignal |
 
 > Source for these is private — happy to walk through architecture in an interview.
 
